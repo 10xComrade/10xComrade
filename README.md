@@ -29,7 +29,7 @@
   Trophies :
 </h2>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TheRadium&theme=algolia" alt="TheRetromancer"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=10xComrade&theme=algolia" alt="TheRetromancer"/></p>
      
 <h2>
  <img src="https://media.tenor.com/F7Y9A0SWAUcAAAAi/goal-circle.gif" width="46em" height="46em"/>
@@ -37,7 +37,7 @@
 </h2>
 
 <div align="center">
- <span align="right" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRadium&layout=donut-vertical&theme=react"/></span>
- <span align="left"><img src="https://github-readme-stats.vercel.app/api?username=TheRadium&show_icons=true&theme=react"/></span>
- <span align="left" ><img src="https://streak-stats.demolab.com/?user=TheRadium&theme=react"/></span>
+ <span align="right" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xComrade&layout=donut-vertical&theme=react"/></span>
+ <span align="left"><img src="https://github-readme-stats.vercel.app/api?username=10xComrade&show_icons=true&theme=react"/></span>
+ <span align="left" ><img src="https://streak-stats.demolab.com/?user=10xComrade&theme=react"/></span>
 </div>
