@@ -2,7 +2,7 @@
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=1000&color=00fffa&background=07002D00&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+There+!+%F0%9F%91%8B;I'm+Sadra+!" alt="Typing SVG" />
 
 <div>
-  <h3 align="center">A passionate Developer & Network enthusiast from Iran</h3>
+  <h3 align="center">A passionate Developer & Computer Networking enthusiast from Iran</h3>
 </div>
 </br>
 <h2>
